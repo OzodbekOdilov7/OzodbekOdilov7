@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ozodbek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1DnFW0c5r-s8MK3esqiRiy&ust=1711524495954000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiR5PDOkYUDFQAAAAAdAAAAABAI">
+<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/theozodbekodilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theozodbekodilov" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ozodbek odilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ozodbek odilov" height="30" width="40" /></a>
+<a href="https://instagram.com/instagram.com/theozodbekodilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/theozodbekodilov" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/youtube.com/ozodbek_odilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/ozodbek_odilov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
